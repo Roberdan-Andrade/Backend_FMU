@@ -1,0 +1,5 @@
+Shift + Alt + F = Formatar VSCode
+Alt + Z = Quebra Codigo
+
+Ctrl + : = Comenta Tudo
+Alt + Click = Multiplos Cursores
