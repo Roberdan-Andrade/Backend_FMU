@@ -1,3 +1,24 @@
 {
-    "type": "module"
+    "type": "module",
+    "name": "backend_fmu",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Roberdan-Andrade/Backend_FMU.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Roberdan-Andrade/Backend_FMU/issues"
+    },
+    "homepage": "https://github.com/Roberdan-Andrade/Backend_FMU#readme",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
 }
